@@ -8,8 +8,6 @@
 
 ## **About Me**
 
-
-
 - 🔍 Passionate **Bug Bounty Hunter** and **Cybersecurity Researcher**
 - 🎯 Focused on finding vulnerabilities and improving security systems
 - 📖 Currently expanding my knowledge in cybersecurity and ethical hacking
@@ -28,8 +26,13 @@
   
     ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-%230074C2.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
 
@@ -40,6 +43,9 @@
     ![Metasploit](https://img.shields.io/badge/Metasploit-%23A83232.svg?style=for-the-badge&logo=metasploit&logoColor=white)
     ![Nessus](https://img.shields.io/badge/Nessus-%231D79FF.svg?style=for-the-badge&logo=nessus&logoColor=white)
     ![Wireshark](https://img.shields.io/badge/Wireshark-%236173B7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+    ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+    ![Autopsy](https://img.shields.io/badge/Autopsy-%234285F4.svg?style=for-the-badge&logo=autopsy&logoColor=white)
+    ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23F05847.svg?style=for-the-badge&logo=johntheripper&logoColor=white)
 
 <br>
 
@@ -64,10 +70,14 @@
 ## 📜 Certifications
 
 - **eCPPTv2** - Professional Pentester by INE  
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105477677" alt="eCPPTv2 badge" width="120">
+
 - **eJPTv2** - Junior Pentester by INE  
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92074079" alt="eJPTv2 badge" width="120">
+
 - **Junior Cybersecurity Analyst Career Path** - Cisco  
-- **Introduction to Cybersecurity** - Cisco  
-- **Ethical Hacking Essentials** - EC-Council  
+  <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cisco badge" width="120">
+
 
 <br>
 
