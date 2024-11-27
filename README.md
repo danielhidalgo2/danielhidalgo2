@@ -11,7 +11,7 @@
 - 🔍 Passionate **Bug Bounty Hunter** and **Cybersecurity Researcher**
 - 🎯 Focused on finding vulnerabilities and improving security systems
 - 📖 Currently expanding my knowledge in cybersecurity and ethical hacking
-- 🌱 Active in **Bugcrowd** programs, contributing to a safer digital world
+- 🌱 Active in **Bug Bounty** programs, contributing to a safer digital world
 
 <br><br>
 
